@@ -16,7 +16,7 @@ export default function Header() {
                         alt="Logo"
                     >
 
-                        <Image alt='logo' src='/public/images/Logo.jpg' sx={{
+                        <Image alt='logo' src='/images/Logo.jpg' sx={{
                             width: {
                                 lg: '215px',
                                 md: '115px',
